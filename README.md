@@ -3,7 +3,7 @@
 <p>For install packages "yarn install" or "npm install"</p>
 <p>For run app "yarn start" or "npm run start"</p>
 <p><a href="https://www.shaketree.tk/">https://www.shaketree.tk/</a></p>
-<a href="https://www.shaketree.tk/"><img src="Screenshot.png" />/</a>
+<a href="https://shaketree.salihkesepara.com"><img src="Screenshot.png" />/</a>
 
 # Task:
 
