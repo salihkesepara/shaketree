@@ -1,0 +1,18 @@
+$app-height: 800px;
+$box-width: 50%;
+$box-height: $app-height * .8;
+
+#home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: $app-height;
+
+  .box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: $box-width;
+    height: $box-height;
+  }
+}
